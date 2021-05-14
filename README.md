@@ -1,3 +1,3 @@
 # KivyPythonCalculator
 This is an android application developed using Kivy Python learned from RealPython projects.
-the apk file is stored in bin folder. The .apk file shall be exported to android phone and tested working fine. Further reference available at https://realpython.com/mobile-app-kivy-python/
+The .apk files are stored in bin folder. The calculator.apk file shall be copied to android phone and tested . Further reference is available at https://realpython.com/mobile-app-kivy-python/
